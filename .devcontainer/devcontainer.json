@@ -6,7 +6,7 @@
 	],
 	"service": "laravel.test",
 	"workspaceFolder": "/var/www/html",
-	"initializeCommand": "bash -c '[[ $(docker ps -aq) ]] && docker stop $(docker ps -aq) && docker rm $(docker ps -aq) || echo \"No conteiner running\"'"`
+	"initializeCommand": "bash -c '[[ $(docker ps -aq) ]] && docker stop $(docker ps -aq) && docker rm $(docker ps -aq) || echo \"No conteiner running\"'",
 	"customizations": {
 		"vscode": {
 			"extensions": [
