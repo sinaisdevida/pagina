@@ -14,7 +14,7 @@
             <img src="{{ asset('img/site.png') }}" alt="Logo">
         </div>
         <h1 class="text-3xl font-bold underline text-center mt-4">
-            Site em construção
+            Site em construção !!
         </h1>
     </div>
 </body>
